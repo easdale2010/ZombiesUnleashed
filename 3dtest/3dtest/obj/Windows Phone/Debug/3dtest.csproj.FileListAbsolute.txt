@@ -1,0 +1,145 @@
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.dll
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.pdb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.dll
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.pdb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.xap
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.dll
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.pdb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.dll
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.pdb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.xap
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.dll
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.pdb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.dll
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.pdb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.xap
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\pebbles_texture.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\long_ground.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\pebbles_texture_0.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\masonry-wall-texture.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\wall.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\Content\masonry-wall-texture_0.xnb
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.xap
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+K:\XNA\Windows Phone Projects\3dtest 2\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

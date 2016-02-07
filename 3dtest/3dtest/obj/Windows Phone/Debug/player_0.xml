@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Identity>
+      <SourceFilename>C:\Users\User\Desktop\Zombies Unleashed 3D endless corridor\3dtest\3dtestContent\player.x</SourceFilename>
+      <SourceTool>XImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child>
+        <Name>x3ds_cube03</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>cube03</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Positions>-6.248156 22.7241974 -5.84108162 -6.248156 22.7241974 6.53687859 -6.248156 49.5157166 -5.84108162 -6.248156 49.5157166 6.53687859 6.129724 22.7241974 -5.84108162 6.129724 22.7241974 6.53687859 6.129724 49.5157166 -5.84108162 6.129724 49.5157166 6.53687859</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource1</Material>
+                <Indices>0 1 2 3 1 0 4 5 6 7 5 4 6 1 3 5 1 6 4 2 7 0 2 4 4 3 0 6 3 4 7 1 5 2 1 7</Indices>
+                <Vertices>
+                  <PositionIndices>6 0 4 2 7 1 3 5</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 1 1 1 0 0 1 0 0 1 0 0 1 1</VertexChannel>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.4082483 0.4082483 -0.8164966 -0.577350259 -0.577350259 -0.577350259 0.8164966 -0.4082483 -0.4082483 -0.4082483 0.8164966 -0.4082483 0.577350259 0.577350259 0.577350259 -0.4082483 -0.4082483 0.8164966 -0.8164966 0.4082483 0.4082483 0.4082483 -0.8164966 0.4082483</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>x3ds_sphere01</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>sphere01</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Positions>-0.163045928 48.00201 0.000158560491 1.74608123 48.38176 0.000158560491 3.364561 49.463192 0.000158560491 4.44599438 51.0816727 0.000158560491 4.82574368 52.9908 0.000158560491 4.44599438 54.8999252 0.000158560491 3.364561 56.5184059 0.000158560491 1.74608123 57.59984 0.000158560491 -0.163045928 57.9795876 0.000158560491 1.49030662 48.38176 -0.954405 2.891951 49.463192 -1.76364493 3.82850027 51.0816727 -2.30436158 4.15737247 52.9908 -2.49423623 3.82850027 54.8999252 -2.30436158 2.891951 56.5184059 -1.76364493 1.49030662 57.59984 -0.954405 0.7915176 48.38176 -1.653194 1.6007576 49.463192 -3.05483842 2.14147425 51.0816727 -3.99138761 2.331349 52.9908 -4.32025957 2.14147425 54.8999252 -3.99138761 1.6007576 56.5184059 -3.05483842 0.7915176 57.59984 -1.653194 -0.163045928 48.38176 -1.90896857 -0.163045928 49.463192 -3.52744842 -0.163045928 51.0816727 -4.60888147 -0.163045928 52.9908 -4.988631 -0.163045928 54.8999252 -4.60888147 -0.163045928 56.5184059 -3.52744842 -0.163045928 57.59984 -1.90896857 -1.1176095 48.38176 -1.653194 -1.92684937 49.463192 -3.05483842 -2.467566 51.0816727 -3.99138761 -2.65744066 52.9908 -4.32025957 -2.467566 54.8999252 -3.99138761 -1.92684937 56.5184059 -3.05483842 -1.1176095 57.59984 -1.653194 -1.81639838 48.38176 -0.954405 -3.21804285 49.463192 -1.76364493 -4.154592 51.0816727 -2.30436158 -4.48346424 52.9908 -2.49423623 -4.154592 54.8999252 -2.30436158 -3.21804285 56.5184059 -1.76364493 -1.81639838 57.59984 -0.954405 -2.072173 48.38176 0.000158560491 -3.69065285 49.463192 0.000158560491 -4.772086 51.0816727 0.000158560491 -5.15183544 52.9908 0.000158560491 -4.772086 54.8999252 0.000158560491 -3.69065285 56.5184059 0.000158560491 -2.072173 57.59984 0.000158560491 -1.81639838 48.38176 0.9547221 -3.21804285 49.463192 1.763962 -4.154592 51.0816727 2.30467868 -4.48346424 52.9908 2.49455333 -4.154592 54.8999252 2.30467868 -3.21804285 56.5184059 1.763962 -1.81639838 57.59984 0.9547221 -1.1176095 48.38176 1.653511 -1.92684937 49.463192 3.05515552 -2.467566 51.0816727 3.9917047 -2.65744066 52.9908 4.320577 -2.467566 54.8999252 3.9917047 -1.92684937 56.5184059 3.05515552 -1.1176095 57.59984 1.653511 -0.163045928 48.38176 1.90928566 -0.163045928 49.463192 3.52776551 -0.163045928 51.0816727 4.609199 -0.163045928 52.9908 4.98894835 -0.163045928 54.8999252 4.609199 -0.163045928 56.5184059 3.52776551 -0.163045928 57.59984 1.90928566 0.7915176 48.38176 1.653511 1.6007576 49.463192 3.05515552 2.14147425 51.0816727 3.9917047 2.331349 52.9908 4.320577 2.14147425 54.8999252 3.9917047 1.6007576 56.5184059 3.05515552 0.7915176 57.59984 1.653511 1.49030662 48.38176 0.9547221 2.891951 49.463192 1.763962 3.82850027 51.0816727 2.30467868 4.15737247 52.9908 2.49455333 3.82850027 54.8999252 2.30467868 2.891951 56.5184059 1.763962 1.49030662 57.59984 0.9547221</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource2</Material>
+                <Indices>0 1 2 3 4 0 5 6 3 7 8 5 9 10 7 11 12 9 13 14 11 15 16 13 17 18 15 19 20 17 21 22 19 23 24 21 25 0 2 26 0 25 26 3 0 27 3 26 27 5 3 28 5 27 28 7 5 29 7 28 29 9 7 30 9 29 30 11 9 31 11 30 31 13 11 32 13 31 32 15 13 33 15 32 33 17 15 34 17 33 34 19 17 35 19 34 35 21 19 36 21 35 36 23 21 37 23 36 38 26 25 39 26 38 39 27 26 40 27 39 40 28 27 41 28 40 41 29 28 42 29 41 42 30 29 43 30 42 43 31 30 44 31 43 44 32 31 45 32 44 45 33 32 46 33 45 46 34 33 47 34 46 47 35 34 48 35 47 48 36 35 49 36 48 49 37 36 50 37 49 51 39 38 52 39 51 52 40 39 53 40 52 53 41 40 54 41 53 54 42 41 55 42 54 55 43 42 56 43 55 56 44 43 57 44 56 57 45 44 58 45 57 58 46 45 59 46 58 59 47 46 60 47 59 60 48 47 61 48 60 61 49 48 62 49 61 62 50 49 63 50 62 64 52 51 65 52 64 65 53 52 66 53 65 66 54 53 67 54 66 67 55 54 68 55 67 68 56 55 69 56 68 69 57 56 70 57 69 70 58 57 71 58 70 71 59 58 72 59 71 72 60 59 73 60 72 73 61 60 74 61 73 74 62 61 75 62 74 75 63 62 76 63 75 77 65 64 78 65 77 78 66 65 79 66 78 79 67 66 80 67 79 80 68 67 81 68 80 81 69 68 82 69 81 82 70 69 83 70 82 83 71 70 84 71 83 84 72 71 85 72 84 85 73 72 86 73 85 86 74 73 87 74 86 87 75 74 88 75 87 88 76 75 89 76 88 90 78 77 91 78 90 91 79 78 92 79 91 92 80 79 93 80 92 93 81 80 94 81 93 94 82 81 95 82 94 95 83 82 96 83 95 96 84 83 97 84 96 97 85 84 98 85 97 98 86 85 99 86 98 99 87 86 100 87 99 100 88 87 101 88 100 101 89 88 102 89 101 103 91 90 104 92 91 105 93 92 106 94 93 107 95 94 108 96 95 109 97 96 110 98 97 111 99 98 112 100 99 113 101 100 114 102 101</Indices>
+                <Vertices>
+                  <PositionIndices>9 0 1 16 0 23 0 30 0 37 0 44 0 51 0 58 0 65 0 72 0 79 0 1 0 2 10 17 24 31 38 45 52 59 66 73 80 2 3 11 18 25 32 39 46 53 60 67 74 81 3 4 12 19 26 33 40 47 54 61 68 75 82 4 5 13 20 27 34 41 48 55 62 69 76 83 5 6 14 21 28 35 42 49 56 63 70 77 84 6 7 15 22 29 36 43 50 57 64 71 78 85 7 8 8 8 8 8 8 8 8 8 8 8 8</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.0833333358 0.875 0 1 0 0.875 0.166666672 0.875 0.0833333358 1 0.25 0.875 0.166666672 1 0.333333343 0.875 0.25 1 0.416666657 0.875 0.333333343 1 0.5 0.875 0.416666657 1 0.5833333 0.875 0.5 1 0.6666667 0.875 0.5833333 1 0.75 0.875 0.6666667 1 0.8333333 0.875 0.75 1 0.9166667 0.875 0.8333333 1 1 0.875 0.9166667 1 0 0.75 0.0833333358 0.75 0.166666672 0.75 0.25 0.75 0.333333343 0.75 0.416666657 0.75 0.5 0.75 0.5833333 0.75 0.6666667 0.75 0.75 0.75 0.8333333 0.75 0.9166667 0.75 1 0.75 0 0.625 0.0833333358 0.625 0.166666672 0.625 0.25 0.625 0.333333343 0.625 0.416666657 0.625 0.5 0.625 0.5833333 0.625 0.6666667 0.625 0.75 0.625 0.8333333 0.625 0.9166667 0.625 1 0.625 0 0.5 0.0833333358 0.5 0.166666672 0.5 0.25 0.5 0.333333343 0.5 0.416666657 0.5 0.5 0.5 0.5833333 0.5 0.6666667 0.5 0.75 0.5 0.8333333 0.5 0.9166667 0.5 1 0.5 0 0.375 0.0833333358 0.375 0.166666672 0.375 0.25 0.375 0.333333343 0.375 0.416666657 0.375 0.5 0.375 0.5833333 0.375 0.6666667 0.375 0.75 0.375 0.8333333 0.375 0.9166667 0.375 1 0.375 0 0.25 0.0833333358 0.25 0.166666672 0.25 0.25 0.25 0.333333343 0.25 0.416666657 0.25 0.5 0.25 0.5833333 0.25 0.6666667 0.25 0.75 0.25 0.8333333 0.25 0.9166667 0.25 1 0.25 0 0.125 0.0833333358 0.125 0.166666672 0.125 0.25 0.125 0.333333343 0.125 0.416666657 0.125 0.5 0.125 0.5833333 0.125 0.6666667 0.125 0.75 0.125 0.8333333 0.125 0.9166667 0.125 1 0.125 0 0 0.0833333358 0 0.166666672 0 0.25 0 0.333333343 0 0.416666657 0 0.5 0 0.5833333 0 0.6666667 0 0.75 0 0.8333333 0 0.9166667 0</VertexChannel>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.37717253 -0.907906353 -0.182885319 1.26781963E-09 -1 2.85259416E-09 0.418083638 -0.907906353 0.0302029867 0.235198364 -0.9079063 -0.346969575 1.26781963E-09 -1 2.85259416E-09 0.03020299 -0.907906353 -0.418083638 1.26781963E-09 -1 2.85259416E-09 -0.182885319 -0.907906353 -0.37717253 1.26781963E-09 -1 2.85259416E-09 -0.346969575 -0.9079063 -0.235198379 1.26781963E-09 -1 2.85259416E-09 -0.418083578 -0.907906353 -0.0302029867 1.26781963E-09 -1 2.85259416E-09 -0.37717253 -0.907906353 0.182885334 1.26781963E-09 -1 2.85259416E-09 -0.235198364 -0.907906353 0.346969545 1.26781963E-09 -1 2.85259416E-09 -0.03020299 -0.907906353 0.418083638 1.26781963E-09 -1 2.85259416E-09 0.182885319 -0.907906353 0.37717253 1.26781963E-09 -1 2.85259416E-09 0.346969575 -0.9079063 0.235198364 1.26781963E-09 -1 2.85259416E-09 0.418083638 -0.907906353 0.0302029867 1.26781963E-09 -1 2.85259416E-09 0.7061213 -0.7079868 0.0121428631 0.6175904 -0.7079867 -0.342544675 0.36357677 -0.7079868 -0.6054475 0.0121428473 -0.7079867 -0.7061213 -0.342544645 -0.7079868 -0.6175905 -0.6054475 -0.7079868 -0.36357677 -0.7061213 -0.7079867 -0.01214285 -0.6175904 -0.7079868 0.342544675 -0.36357677 -0.7079868 0.6054475 -0.0121428734 -0.7079867 0.7061213 0.342544645 -0.7079867 0.6175904 0.6054475 -0.7079868 0.36357677 0.7061213 -0.7079868 0.0121428631 0.923511147 -0.383517861 0.00642031 0.802994251 -0.3835179 -0.456195384 0.4673157 -0.383517861 -0.796574 0.00642031 -0.3835178 -0.923511147 -0.456195354 -0.3835179 -0.802994251 -0.796574 -0.383517832 -0.467315733 -0.923511147 -0.3835179 -0.00642031 -0.802994251 -0.3835179 0.456195384 -0.467315763 -0.383517951 0.7965739 -0.006420311 -0.383517951 0.923511147 0.4561954 -0.383518 0.802994251 0.796573937 -0.383517921 0.467315763 0.923511147 -0.383517861 0.00642031 1 2.618164E-09 0 0.8660254 3.66542956E-08 -0.5000001 0.5 -1.8327146E-08 -0.8660254 0 5.236328E-09 -1 -0.5 1.8327146E-08 -0.8660254 -0.8660254 -3.14179651E-08 -0.50000006 -1 0 0 -0.8660254 1.309082E-08 0.50000006 -0.50000006 -1.57089843E-08 0.8660254 0 -2.618164E-09 1 0.50000006 1.309082E-08 0.8660254 0.8660254 -1.04726556E-08 0.49999997 1 2.618164E-09 0 0.923511147 0.3835179 -0.00642031059 0.796573937 0.383517861 -0.467315763 0.456195384 0.383517861 -0.8029943 -0.00642031059 0.383517832 -0.923511147 -0.4673157 0.383517861 -0.796574 -0.802994251 0.383517921 -0.456195354 -0.923511147 0.3835179 0.00642031059 -0.7965739 0.383517861 0.467315674 -0.4561954 0.383517951 0.802994251 0.006420311 0.383517951 0.923511147 0.467315763 0.383517951 0.796573937 0.802994251 0.383517921 0.456195354 0.923511147 0.3835179 -0.00642031059 0.7061213 0.7079867 -0.0121428547 0.605447531 0.7079867 -0.36357677 0.342544645 0.7079867 -0.6175904 -0.0121428445 0.7079867 -0.7061213 -0.36357677 0.7079867 -0.605447531 -0.6175904 0.7079867 -0.342544675 -0.7061213 0.7079867 0.0121428473 -0.605447531 0.7079867 0.36357677 -0.342544675 0.7079867 0.6175904 0.0121428706 0.7079867 0.7061213 0.36357677 0.7079867 0.605447531 0.6175904 0.7079867 0.342544675 0.7061213 0.7079867 -0.0121428547 0.418083638 0.907906353 -0.03020299 0.346969575 0.907906353 -0.235198364 0.182885289 0.907906353 -0.37717253 -0.0302029867 0.907906353 -0.418083638 -0.235198364 0.907906353 -0.346969575 -0.37717253 0.907906353 -0.182885334 -0.418083638 0.907906353 0.0302029848 -0.346969575 0.907906353 0.235198364 -0.182885319 0.907906353 0.3771725 0.03020299 0.907906353 0.418083638 0.235198364 0.907906353 0.346969575 0.37717253 0.907906353 0.182885289 0.418083638 0.907906353 -0.03020299 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10 -1.26781963E-09 1 -9.508647E-10</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>x3ds_mesh06</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>mesh06</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Positions>-14.9306717 30.464098 -1.19468 -14.9306717 30.464098 1.25932 -6.190994 44.89513 -1.19468 -6.190994 44.89513 1.25932 -12.8316059 29.19287 -1.19468 -12.8316059 29.19287 1.25932 -4.091929 43.6238976 -1.19468 -4.091929 43.6238976 1.25932</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource3</Material>
+                <Indices>0 1 2 3 1 0 4 5 6 7 5 4 6 1 3 5 1 6 4 2 7 0 2 4 4 3 0 6 3 4 7 1 5 2 1 7</Indices>
+                <Vertices>
+                  <PositionIndices>6 0 4 2 7 1 3 5</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 1 1 1 0 0 1 0 0 1 0 0 1 1</VertexChannel>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.5606845 0.137718946 -0.816496432 -0.792927146 -0.194764555 -0.5773503 0.486920953 -0.772166669 -0.408248246 0.07376407 0.909885764 -0.408248425 0.792927444 0.194763958 0.5773501 -0.560684144 -0.137719333 0.8164966 -0.486920744 0.772166669 0.408248425 -0.0737630054 -0.9098859 0.4082482</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>x3ds_mesh03</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>mesh03</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Positions>1.14649987 2.81220055 -2.60159 1.14649987 2.81220055 2.60381 1.14649987 22.8018 -2.60159 1.14649987 22.8018 2.60381 4.37549973 2.81220055 -2.60159 4.37549973 2.81220055 2.60381 4.37549973 22.8018 -2.60159 4.37549973 22.8018 2.60381</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource4</Material>
+                <Indices>0 1 2 3 1 0 4 5 6 7 5 4 6 1 3 5 1 6 4 2 7 0 2 4 4 3 0 6 3 4 7 1 5 2 1 7</Indices>
+                <Vertices>
+                  <PositionIndices>6 0 4 2 7 1 3 5</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 1 1 1 0 0 1 0 0 1 0 0 1 1</VertexChannel>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.4082483 0.4082483 -0.8164966 -0.577350259 -0.577350259 -0.577350259 0.8164966 -0.4082483 -0.4082483 -0.4082483 0.8164966 -0.4082483 0.577350259 0.577350259 0.577350259 -0.4082483 -0.4082483 0.8164966 -0.8164966 0.4082483 0.4082483 0.4082483 -0.8164966 0.4082483</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>x3ds_cube01</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>cube01</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Positions>0.496050119 -0.157799959 -2.4793 0.496050119 -0.157799959 6.5923 0.496050119 2.8982 -2.4793 0.496050119 2.8982 6.5923 5.67055035 -0.157799959 -2.4793 5.67055035 -0.157799959 6.5923 5.67055035 2.8982 -2.4793 5.67055035 2.8982 6.5923</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource5</Material>
+                <Indices>0 1 2 3 1 0 4 5 6 7 5 4 6 1 3 5 1 6 4 2 7 0 2 4 4 3 0 6 3 4 7 1 5 2 1 7</Indices>
+                <Vertices>
+                  <PositionIndices>6 0 4 2 7 1 3 5</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 1 1 1 0 0 1 0 0 1 0 0 1 1</VertexChannel>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.4082483 0.4082483 -0.8164966 -0.577350259 -0.577350259 -0.577350259 0.8164966 -0.4082483 -0.4082483 -0.4082483 0.8164966 -0.4082483 0.577350259 0.577350259 0.577350259 -0.4082483 -0.4082483 0.8164966 -0.8164966 0.4082483 0.4082483 0.4082483 -0.8164966 0.4082483</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>x3ds_cube02</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>cube02</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Positions>-5.94595 -0.157799959 -2.4796 -5.94595 -0.157799959 6.592 -5.94595 2.8982 -2.4796 -5.94595 2.8982 6.592 -0.771450043 -0.157799959 -2.4796 -0.771450043 -0.157799959 6.592 -0.771450043 2.8982 -2.4796 -0.771450043 2.8982 6.592</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource6</Material>
+                <Indices>0 1 2 3 1 0 4 5 6 7 5 4 6 1 3 5 1 6 4 2 7 0 2 4 4 3 0 6 3 4 7 1 5 2 1 7</Indices>
+                <Vertices>
+                  <PositionIndices>6 0 4 2 7 1 3 5</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 1 1 1 0 0 1 0 0 1 0 0 1 1</VertexChannel>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.4082483 0.4082483 -0.8164966 -0.577350259 -0.577350259 -0.577350259 0.8164966 -0.4082483 -0.4082483 -0.4082483 0.8164966 -0.4082483 0.577350259 0.577350259 0.577350259 -0.4082483 -0.4082483 0.8164966 -0.8164966 0.4082483 0.4082483 0.4082483 -0.8164966 0.4082483</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>x3ds_mesh05</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>mesh05</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Positions>12.4493675 28.9210739 -1.19451 12.4493675 28.9210739 1.25949 3.55899668 43.2597733 -1.19451 3.55899668 43.2597733 1.25949 14.5350037 30.2142239 -1.19451 14.5350037 30.2142239 1.25949 5.644632 44.5529251 -1.19451 5.644632 44.5529251 1.25949</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource7</Material>
+                <Indices>0 1 2 3 1 0 4 5 6 7 5 4 6 1 3 5 1 6 4 2 7 0 2 4 4 3 0 6 3 4 7 1 5 2 1 7</Indices>
+                <Vertices>
+                  <PositionIndices>6 0 4 2 7 1 3 5</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 1 1 1 0 0 1 0 0 1 0 0 1 1</VertexChannel>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.131838068 0.5620959 -0.81649673 -0.186447576 -0.7949239 -0.5773503 0.9090633 0.0832904056 -0.408248276 -0.7772254 0.478805 -0.408248156 0.186447233 0.7949238 0.5773505 -0.131838351 -0.562096059 0.8164966 -0.909063339 -0.08329063 0.408248156 0.777224958 -0.478805572 0.408248276</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>x3ds_mesh04</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>mesh04</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Positions>-4.518833 2.81219864 -2.60198045 -4.518833 2.81219864 2.60341954 -4.518833 22.8017979 -2.60198045 -4.518833 22.8017979 2.60341954 -1.28983331 2.81219864 -2.60198045 -1.28983331 2.81219864 2.60341954 -1.28983331 22.8017979 -2.60198045 -1.28983331 22.8017979 2.60341954</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource8</Material>
+                <Indices>0 1 2 3 1 0 4 5 6 7 5 4 6 1 3 5 1 6 4 2 7 0 2 4 4 3 0 6 3 4 7 1 5 2 1 7</Indices>
+                <Vertices>
+                  <PositionIndices>6 0 4 2 7 1 3 5</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 1 1 1 0 0 1 0 0 1 0 0 1 1</VertexChannel>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.4082483 0.4082483 -0.8164966 -0.577350259 -0.577350259 -0.577350259 0.8164966 -0.4082483 -0.4082483 -0.4082483 0.8164966 -0.4082483 0.577350259 0.577350259 0.577350259 -0.4082483 -0.4082483 0.8164966 -0.8164966 0.4082483 0.4082483 0.4082483 -0.8164966 0.4082483</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\User\Desktop\Zombies Unleashed 3D endless corridor\3dtest\3dtestContent\player.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">30</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\User\Desktop\Zombies Unleashed 3D endless corridor\3dtest\3dtestContent\player.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8862745 0.7764706 0.670588255</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">30</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource3" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\User\Desktop\Zombies Unleashed 3D endless corridor\3dtest\3dtestContent\player.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8862745 0.7764706 0.670588255</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">30</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource4" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\User\Desktop\Zombies Unleashed 3D endless corridor\3dtest\3dtestContent\player.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.392156869 0.498039216 0.8627451</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">30</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource5" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\User\Desktop\Zombies Unleashed 3D endless corridor\3dtest\3dtestContent\player.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">30</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource6" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\User\Desktop\Zombies Unleashed 3D endless corridor\3dtest\3dtestContent\player.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">30</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource7" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\User\Desktop\Zombies Unleashed 3D endless corridor\3dtest\3dtestContent\player.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8862745 0.7764706 0.670588255</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">30</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource8" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\User\Desktop\Zombies Unleashed 3D endless corridor\3dtest\3dtestContent\player.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.392156869 0.498039216 0.8627451</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">30</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>
